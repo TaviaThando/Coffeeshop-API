@@ -1,0 +1,7 @@
+//pluginManagement {
+//    repositories {
+//        maven { url "/home/octavia/Documents/coffeshop" }
+//    }
+//}
+
+rootProject.name = 'coffeshop'
